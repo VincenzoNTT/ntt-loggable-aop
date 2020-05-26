@@ -1,0 +1,5 @@
+com\nttdata\aop\service\PocService.class
+com\nttdata\aop\LoggableConfig.class
+com\nttdata\run\AppRunAOP.class
+com\nttdata\aop\Loggable.class
+com\nttdata\aop\LogInterceptor.class
